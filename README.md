@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Hey coders, this is my personal portfolio website built using ReactJS.
 
-Then, deployed on Netlify, [Click Here!!] to  (https://sparsh-dagar-portfolio.netlify.app)
+Then, deployed on Netlify, [Sparshhhhhh's portfolio](https://sparsh-dagar-portfolio.netlify.app) 
 
 ## Available Scripts
 
